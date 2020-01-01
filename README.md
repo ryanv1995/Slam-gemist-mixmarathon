@@ -4,9 +4,12 @@ Te luisteren vanuit de APP of via een externe weblink.
 Vaste artiesten toevoegen kan op aanvraag.
 
 
-Laatste update: 28-12-2019
+Laatste update: 01-01-2020
+-Bug opgelost: Weekverloop aangepast van een nieuwjaar.
 
-Bug opgelost: Manual uurtal moet 2 chars bevatten.
+
+Laatste update: 28-12-2019
+-Bug opgelost: Manual uurtal moet 2 chars bevatten.
 
 
 RELEASE 28-12-2019
